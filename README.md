@@ -7,7 +7,7 @@ Developed for the **UET Lahore Computer Organization and Assembly Language (CSC2
 
 ## Tools & Environment
 * **Assembler**: MASM (Microsoft Macro Assembler)
-* **IDE**: Microsoft Visual Studio (2019/2022)
+* **IDE**: Microsoft Visual Studio (2019/2022/2026)
 * **Library**: Irvine32 (`Irvine32.inc`)
 * **Architecture**: x86 (32-bit)
 
