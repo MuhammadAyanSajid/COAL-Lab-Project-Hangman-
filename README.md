@@ -3,9 +3,9 @@
 **Department of Computer Science, UET Lahore (New Campus) - Fall 2024**
 
 ## Project Team
-| Name | Registration Number |
-| :--- | :--- |
-| **Muhammad Ayan Sajid** | 
+
+
+[**Muhammad Ayan Sajid**](https://https://github.com/MuhammadAyanSajid)
 | **Muhammad Husnain** | 2024-CS-696 |
 | **Fiza Shahid Khan** | 2024-CS-680 |
 | **Shareen Asim** | 2024-CS-693 |
