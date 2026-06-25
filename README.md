@@ -2,14 +2,14 @@
 **Computer Organization and Assembly Language Lab (CSC205L)**  
 **Department of Computer Science, UET Lahore (New Campus) - Fall 2024**
 
-## Project Team
-
-
-[**Muhammad Ayan Sajid**](https://https://github.com/MuhammadAyanSajid)
-| **Muhammad Husnain** | 2024-CS-696 |
-| **Fiza Shahid Khan** | 2024-CS-680 |
-| **Shareen Asim** | 2024-CS-693 |
-| **Abdul Hadi** | 2024-CS-655 |
+## 👥 Project Team
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Muhammad Ayan Sajid** | [@MuhammadAyanSajid](https://github.com/MuhammadAyanSajid) |
+| **Muhammad Husnain** | [@nexHus](https://github.com/nexhus) |
+| **Fiza Shahid Khan** | [@Fiza Shahid Khan](https://www.linkedin.com/in/fiza-shahid-khan-a657713b2/) |
+| **Shareen Asim** | [@Shareen Asim](https://www.linkedin.com/in/shareen-asim-9987a33a8/) |
+| **Abdul Hadi** |
 
 **Submitted To:** Mr. Noman Munir
 
